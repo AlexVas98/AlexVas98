@@ -1,6 +1,6 @@
 # Alex's GitHub Portfolio
 
-👋 Hi, I'm Alex, a junior software engineer based in Athens. I recently graduated from the university with a degree in informatics.  I enjoy collaborating with teams, and I'm excited about learning and growing in the tech world!
+Hi, I'm Alex, a junior software engineer based in Athens. I recently graduated from the university with a degree in informatics.  I enjoy collaborating with teams, and I'm excited about learning and growing in the tech world!
 
 ## Skills
 
@@ -11,12 +11,8 @@
 
 ### Education
 
-- **Bachelor of Science in Informatics**
+- **Bachelor of Science in Informatics** ,
   Athens University of Economics and Business
-
-#### Connect with Me
-
-- [LinkedIn](linkedin.com/in/alex-vasilakis-a611051b0)
 <!--
 **AlexVas98/AlexVas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
