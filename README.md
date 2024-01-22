@@ -4,7 +4,7 @@ Hi, I'm Alex, a junior software engineer based in Athens. I recently graduated f
 
 ## Skills
 
-- **Languages:** C#, Java, Python
+- **Languages:** C++, C#, Java, Python
 - **Frameworks:** .NET, ASP.NET MVC
 - **Database:** SQL Server, Entity Framework
 - **Web Technologies:** HTML, CSS, JavaScript
